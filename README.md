@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shashi1iitk
+- 👋 Hi, I’m Shashi Ranjan
 - 👀 I’m interested in new opurtunities and ideas that solves real world problem
 - 🌱 I’m currently learning new skill everyday
 - 💞️ I’m looking to collaborate on startups and businesses
-- 📫 How to reach me - drop a mail address you got by appending @gmail.com with my github handle 
+- 📫 How to reach me - drop a mail on the address you got by appending @gmail.com with my github handle
 
 <!---
 shashi1iitk/shashi1iitk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
